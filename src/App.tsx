@@ -16,6 +16,8 @@ function App() {
       <Bubble  title={testTitle} description={testDesc} avatar={{ userName: 'AS', src: image}}/>
       <Bubble  title={testTitle} description={testDesc} avatar={{ userName: 'AS', src: image}} avatarPositinon='right'/>
       <Bubble  title={testTitle} description={testDesc} avatar={{ userName: 'AS', src: image}} avatarPositinon='right'/>
+      <Bubble  title={testTitle} description={testDesc} avatarPositinon='left'/>
+      <Bubble  title={testTitle} description={testDesc} avatarPositinon='right'/>
     </div>
 
 
